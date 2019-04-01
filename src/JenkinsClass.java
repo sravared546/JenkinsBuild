@@ -5,7 +5,7 @@ public class JenkinsClass {
 		
 		for(int i=1;i<=5;i++)
 		
-		System.out.println(i+" hello");
+		System.out.println(i+" hello1");
 		
 	}
 	
